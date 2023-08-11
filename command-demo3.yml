@@ -3,7 +3,7 @@ kind: Pod
 metadata:
     name: command-demo3
     labels:
-        app: bookstore
+        app: cka
 spec:
     containers:
     - name: command-demo-container
