@@ -11,5 +11,6 @@ only use that command to deploy all things
 
 
 ```bash
-  $ kubectl apply -f .
+cd example-of-networkpolicy
+kubectl apply -f .
 ```
